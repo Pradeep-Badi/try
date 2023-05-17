@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pradeep-Badi/try/static/css/main.b9b8fc26.css",
+    "main.js": "/Pradeep-Badi/try/static/js/main.e82280b6.js",
+    "index.html": "/Pradeep-Badi/try/index.html",
+    "main.b9b8fc26.css.map": "/Pradeep-Badi/try/static/css/main.b9b8fc26.css.map",
+    "main.e82280b6.js.map": "/Pradeep-Badi/try/static/js/main.e82280b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b8fc26.css",
+    "static/js/main.e82280b6.js"
+  ]
+}
